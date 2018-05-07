@@ -18,6 +18,6 @@ And then in the other gradle file(may be your app gradle or your own module libr
 
 ``` gradle
 dependencies {
-	        implementation 'com.github.kapilmhr:SizesDP:1.0'
+	        implementation 'com.github.kapilmhr:SizesDP:1.1'
           }
 ```
